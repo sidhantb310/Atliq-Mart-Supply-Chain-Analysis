@@ -13,14 +13,14 @@ The objective of this project is to measure the service levels of Atliq Mart's s
 **Business-related terms:**
 The comprehensive dashboard provides essential metrics to track and improve AtliQ Mart's service levels. It focuses on key performance indicators such as:
 
-Order Lines: Order is a unique request placed by a customer on a given date. Within an order, a customer could request multiple items. Each of these items requested within the order is called an order line.
+**Order Lines:** Order is a unique request placed by a customer on a given date. Within an order, a customer could request multiple items. Each of these items requested within the order is called an order line.
 
-On-Time Delivery (OT) %: This metric measures the percentage of customer orders delivered on time as per the agreed-upon schedule. It is crucial for ensuring customer satisfaction and loyalty.
+**On-Time Delivery (OT) % :** This metric measures the percentage of customer orders delivered on time as per the agreed-upon schedule. It is crucial for ensuring customer satisfaction and loyalty.
 
-In Full Delivery (IF) %: The IF metric calculates the percentage of orders that were delivered complete, without any missing items. Achieving high IF% is vital in meeting customer demands and avoiding backorders.
+**In Full Delivery (IF) % :** The IF metric calculates the percentage of orders that were delivered complete, without any missing items. Achieving high IF% is vital in meeting customer demands and avoiding backorders.
 
-On-Time In Full (OTIF) %: The OTIF metric combines both on-time delivery and in full delivery to give a holistic view of order fulfillment performance. It indicates how well the company is meeting customer expectations regarding timely and complete deliveries.
+**On-Time In Full (OTIF) % :** The OTIF metric combines both on-time delivery and in full delivery to give a holistic view of order fulfillment performance. It indicates how well the company is meeting customer expectations regarding timely and complete deliveries.
 
-Volume Fill Rate (VFR) %: VFR measures the percentage of the total order volume that was fulfilled. It helps identify potential issues in supply chain efficiency and inventory management.
+**Volume Fill Rate (VFR) % :** VFR measures the percentage of the total order volume that was fulfilled. It helps identify potential issues in supply chain efficiency and inventory management.
 
-Line Fill Rate (LFR) %: The LFR metric assesses the percentage of individual product lines in an order that were delivered in full. This allows the company to pinpoint specific products or categories that may be causing delivery issues.
+**Line Fill Rate (LFR) % :** The LFR metric assesses the percentage of individual product lines in an order that were delivered in full. This allows the company to pinpoint specific products or categories that may be causing delivery issues.
